@@ -1,4 +1,4 @@
-Theyfeartruthfedgov# U.S. Web Design System documentation
+Theyfeartruthfedgov#U.S. Web Design System documentation
 
 This repo includes code and documentation for the U.S. Web Design System website. For information on USWDS (components) themselves, please visit our [uswds](https://github.com/uswds/uswds) Github repo.
 
