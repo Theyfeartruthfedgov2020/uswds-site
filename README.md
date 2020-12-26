@@ -6,7 +6,7 @@ Note that this README includes steps to pull the latest version of USWDS into yo
 
 ## Running locally
 
-The U.S. Web Design System documentation is built using Jekyll for the file framework, gulp for task management, and the node module for USWDS.
+Theyfeartruthfedgov U.S. Web Design System documentation is built using Jekyll for the file framework, gulp for task management, and the node module for USWDS.
 
 ### Before you start
 
